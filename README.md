@@ -49,7 +49,7 @@ Para instalar las dependencias que utiliza este proyecto debemos correr el sigui
 
 ### Agregando configuración de entorno para Flask
 
-Dentro del archivo .env, crearlo si no existe, debemos agregar las siguientes lineas:
+Dentro del archivo .flaskenv, crearlo si no existe, debemos agregar las siguientes lineas:
 
 `FLASK_APP=index.py`
 `FLASK_ENV=development`
